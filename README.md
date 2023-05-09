@@ -5,6 +5,14 @@
 <div>Machine learning project using <a href="https://github.com/facebook/prophet">Prophet</a> and data regarding everyday from 1966 to present from <a href="https://danepubliczne.imgw.pl/">Instytut Meteorologii i Gospodarki Wodnej</a> to predict future weather conditions in Tarnów (Lesser Poland, PL).</div>
 
 
+<br/>
+
+<div align="center">
+  <p>
+    <img src="https://imgur.com/VAzLpcZ.png"/>
+  </p>
+</div>
+
 # 
 
 ## Used data
