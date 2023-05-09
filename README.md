@@ -31,5 +31,5 @@
 
 ## Notebooks
 <div>• <strong>Collecting weather data</strong> - downloads data files from IMGW website, concatenates them and prepares data for training</div>
-<div>• <strong>Training and saving models</strong> - uses collected data to train models for predicting minimum temperature, maximum temperature and precipation, then saves them into models/ folder.</div>
-<div>• <strong>Making predictions</strong> - loads pretrained models to make predictions and draw plot for 30 days in the future.</div>
+<div>• <strong>Training and saving models</strong> - uses collected data to train models for predicting minimum temperature, maximum temperature and precipation, then saves them into models/ folder</div>
+<div>• <strong>Making predictions</strong> - loads pretrained models to make predictions and draw plot for 30 days in the future</div>
