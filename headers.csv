@@ -1,0 +1,65 @@
+﻿CODE,Kod stacji
+NAME,Nazwa stacji
+YEAR,Rok
+MONTH,Miesiąc
+DAY,Dzień
+TMAX,Maksymalna temperatura dobowa [°C]
+TMAX_ST,Status pomiaru TMAX
+TMIN,Minimalna temperatura dobowa [°C]
+TMIN_ST,Status pomiaru TMIN
+STD,Średnia temperatura dobowa [°C]
+STD_ST,Status pomiaru STD
+TMNG,Temperatura minimalna przy gruncie [°C]
+TMNG_ST,Status pomiaru TMNG
+SMDB,Suma dobowa opadu [mm]
+SMDB_ST,Status pomiaru SMDB
+RO,Rodzaj opadu [S/W/ ]
+PKSN,Wysokość pokrywy śnieżnej [cm]
+PKSN_ST,Status pomiaru PKSN
+RWSN,Równoważnik wodny śniegu [mm/cm]
+RWSN_ST,Status pomiaru RWSN
+USL,Usłonecznienie [godziny]
+USL_ST,Status pomiaru USL
+DESZ,Czas trwania opadu deszczu [godziny]
+DESZ_ST,Status pomiaru DESZ
+SNEG,Czas trwania opadu śniegu [godziny]
+SNEG_ST,Status pomiaru SNEG
+DISN,Czas trwania opadu deszczu ze śniegiem [godziny]
+DISN_ST,Status pomiaru DISN
+GRAD,Czas trwania gradu [godziny]
+GRAD_ST,Status pomiaru GRAD
+MGLA,Czas trwania mgły [godziny]
+MGLA_ST,Status pomiaru MGLA
+ZMGL,Czas trwania zamglenia [godziny]
+ZMGL_ST,Status pomiaru ZMGL
+SADZ,Czas trwania sadzi [godziny]
+SADZ_ST,Status pomiaru SADZ
+GOLO,Czas trwania gołoledzi [godziny]
+GOLO_ST,Status pomiaru GOLO
+ZMNI,Czas trwania zamieci śnieżnej niskiej [godziny] 
+ZMNI_ST,Status pomiaru ZMNI
+ZMWS,Czas trwania zamieci śnieżnej wysokiej [godziny]
+ZMWS_ST,Status pomiaru ZMWS
+ZMET,Czas trwania zmętnienia [godziny]
+ZMET_ST,Status pomiaru ZMET
+FF10,Czas trwania wiatru >=10m/s [godziny]
+FF10_ST,Status pomiaru FF10
+FF15,Czas trwania wiatru >15m/s [godziny]
+FF15_ST,Status pomiaru FF15
+BRZA,Czas trwania burzy  [godziny]
+BRZA_ST,Status pomiaru BRZA
+ROSA,Czas trwania rosy  [godziny]
+ROSA_ST,Status pomiaru ROSA
+SZRO,Czas trwania szronu [godziny]
+SZRO_ST,Status pomiaru SZRO
+DZPS,Wystąpienie pokrywy śnieżnej [0/1]
+DZPS_ST,Status pomiaru DZPS
+DZBL,Wystąpienie błyskawicy [0/1]
+DZBL_ST,Status pomiaru DZBL
+SG,Stan gruntu [Z/R]
+IZD,Izoterma dolna  [cm]
+IZD_ST,Status pomiaru IZD
+IZG,Izoterma górna [cm]
+IZG_ST,Status pomiaru IZG
+AKTN,Aktynometria  [J/cm2]
+AKTN_ST,Status pomiaru AKTN
