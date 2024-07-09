@@ -21,3 +21,7 @@
 <div>• <strong>Collecting weather data</strong> - downloads data files from IMGW website, concatenates them and prepares data for training</div>
 <div>• <strong>Training and saving models</strong> - uses  collected data to train models for predicting minimum temperature,  maximum temperature and precipitation, then saves them into models/ folder</div>
 <div>• <strong>Making predictions</strong> - loads pre-trained models to make predictions and draw plots for 30 days in the future</div>
+
+## Python versions
+<div>Main branch: 3.12.4</div>
+<div>Colab branch: 3.10.12</div>
